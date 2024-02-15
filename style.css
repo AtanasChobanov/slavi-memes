@@ -1,0 +1,42 @@
+body {
+    background-color: #1A120B;
+}
+
+h1 {
+    font-family: "Libre Baskerville", serif;
+    font-style: normal;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 61px;
+}
+
+h2 {
+    font-family: "Libre Baskerville", serif;
+    font-style: normal;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+div {
+    color: #E5E5CB;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+img {
+    border: 5px solid #D5CEA3;
+    width: 100%;
+}
+
+p {
+    font-size: 1.4em;
+}
+
+hr {
+    height: 1px;
+    background-color: #D5CEA3;
+}
+  
